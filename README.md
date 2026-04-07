@@ -1,6 +1,6 @@
 # Olá, eu sou o Felipe! 👋
 
-### Desenvolvedor Full Stack | Bacharel em Ciência da Computação
+### Desenvolvedor Front End
 
 Sou um profissional com uma trajetória consolidada na gestão de infraestrutura operacional e sistemas metroviários, agora unindo essa experiência de gestão e monitoramento (SLA/Incidentes) ao mundo do desenvolvimento de software.
 
